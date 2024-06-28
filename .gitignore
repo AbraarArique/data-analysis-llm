@@ -1,0 +1,17 @@
+# Environment variables and secrets
+*.env
+*.env.*
+secret.y*ml
+ 
+# Python
+venv/
+
+# Production builds
+build
+
+# Testing
+coverage
+
+# Miscellaneous
+.DS_Store
+*.pem
