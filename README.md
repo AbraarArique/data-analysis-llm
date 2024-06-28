@@ -26,9 +26,9 @@ I'll be using:
 
 ## Notebooks
 
-**Google Colab:** [https://colab.research.google.com/drive/1CUK3r1mMQKrR5VaUTmFjsqDy6JV1QkKL?usp=sharing]
+**Google Colab:** https://colab.research.google.com/drive/1CUK3r1mMQKrR5VaUTmFjsqDy6JV1QkKL?usp=sharing
 
-**Kaggle:**: [https://www.kaggle.com/code/kittenchief/business-data-analysis-chatbot-agent-langchain]
+**Kaggle:** https://www.kaggle.com/code/kittenchief/business-data-analysis-chatbot-agent-langchain
 
 ---
 
